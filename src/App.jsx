@@ -7,7 +7,7 @@ const App = () => {
       <h3 className='text-lg mt-4'>Already Registered User?</h3>
       <h4 className='text-base'>LOGIN</h4>
       <form className='flex flex-col items-center justify-center w-64 mt-4'>
-        <div className='w-full flex justify-center'>
+        <div className='w-full '>
           <label className='block mb-2 py-2'>Username  </label>
           <input className='w-full rounded border-gray-400 border py-2 px-4' type='name' placeholder='Enter your name' name='name' required/>
         </div>
